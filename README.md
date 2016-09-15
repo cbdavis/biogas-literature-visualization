@@ -8,3 +8,4 @@ Please note that this topic modeling programme is only able to process the infor
 
 In the first experiment, the search website of "Web of Science" was used; the reseach word is "biogas" and the refined criteria is "research from the Netherlands". Momentarily, this website allows the extraction of the searched result lists in the form of a text file to the computer which created good match for the topic modelling engine. Despite the refining functions, 35/270 suggested publications from Web of Science were not directly related to the Dutch biogas system, hence they were excluded from the feeding text. The shown result was derived from the best matched 235 articles. 
 
+Click on the "Visualization" or this link for the result! https://is.gd/cbtWXr
